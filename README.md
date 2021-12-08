@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning my bachlors at Azrieli College of Engineering. 
 
 - 📫 How to reach me -> Idanmal8@gmail.com :)
-loves to programe , finished first year and working on projects , 
+loves to program , finished first year and working on projects , 
 > java 
-> assembly 
+> c
+> c++
+> HTML
+> JavaScript
+> Assembly
