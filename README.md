@@ -1,7 +1,7 @@
 Hi 👋 My name is Idan Malka
 ===========================
 
-Software engineer
+Software Developer
 -----------------
 
 Currently, a software engineering student and Co-founder of Commodo.inc a software solution company who cares about businesses schedule , i am 26 years old, with big ambitions for the future and have the motivation to change the current state of the world to a better, modern world 👾🤖
