@@ -10,7 +10,7 @@ Software Developer 👨🏻‍💻
 
 - 📫 How to reach me **Idanmalkadb@gmail.com**
 
-- ⚡ Fun fact **I׳m a geek for star wars**
+- 🤓 Fun fact **I׳m a geek for star wars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
