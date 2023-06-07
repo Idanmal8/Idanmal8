@@ -1,4 +1,4 @@
-Hi 👋 My name is Idan Malka 
+Hi 👋🏼 My name is Idan Malka 
 ===========================
 
 Software Developer 👨🏻‍💻
