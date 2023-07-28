@@ -4,7 +4,7 @@ Hi 👋🏼 My name is Idan Malka
 Software Developer 👨🏻‍💻
 -----------------
 
-- 🔭 I’m currently working on [Commodo.inc](https://commodoautomations.com/landing/CommodoLanding.html)
+- 🔭 I’m currently working on my app **Bookmarko**
 
 - 🌱 I’m currently learning **Flutter , app development**
 
