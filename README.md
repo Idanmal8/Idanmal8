@@ -4,11 +4,7 @@ Hi 👋🏼 My name is Idan Malka
 Software Developer 👨🏻‍💻
 -----------------
 
-- 🔭 I’m currently working on a side hustle app
-
 - 📫 How to reach me: **Idanmalkadb@gmail.com**
-
-- 🤓 Fun fact **I׳m a geek for star wars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
